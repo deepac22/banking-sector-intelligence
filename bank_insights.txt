@@ -1,0 +1,14 @@
+Banking Sector Report - June 25, 2026
+==================================================
+Best Performer: Goldman Sachs (32.73%)
+Highest Dividend Yield: Scotiabank (372.0%)
+Best Risk/Reward: RBC (Sharpe: 1.45)
+Most Undervalued (P/E): Wells Fargo (P/E: 12.97)
+Country Average Returns: Canada (20.72%) vs USA (23.5%)
+Sector Sentiment: Bullish (Avg Return: 21.84%)
+
+==================================================
+SECTOR SUMMARY
+Best Performer: Goldman Sachs (32.73%)
+Worst Performer: Bank of America (15.39%)
+Highest Yield: Scotiabank (372.0%)
